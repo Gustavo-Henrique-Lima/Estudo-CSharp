@@ -1,0 +1,14 @@
+D:\EstudoCSharp\PrimeiraClasse\Triangulo\Triangulo\bin\Debug\net8.0\Triangulo.exe
+D:\EstudoCSharp\PrimeiraClasse\Triangulo\Triangulo\bin\Debug\net8.0\Triangulo.deps.json
+D:\EstudoCSharp\PrimeiraClasse\Triangulo\Triangulo\bin\Debug\net8.0\Triangulo.runtimeconfig.json
+D:\EstudoCSharp\PrimeiraClasse\Triangulo\Triangulo\bin\Debug\net8.0\Triangulo.dll
+D:\EstudoCSharp\PrimeiraClasse\Triangulo\Triangulo\bin\Debug\net8.0\Triangulo.pdb
+D:\EstudoCSharp\PrimeiraClasse\Triangulo\Triangulo\obj\Debug\net8.0\Triangulo.GeneratedMSBuildEditorConfig.editorconfig
+D:\EstudoCSharp\PrimeiraClasse\Triangulo\Triangulo\obj\Debug\net8.0\Triangulo.AssemblyInfoInputs.cache
+D:\EstudoCSharp\PrimeiraClasse\Triangulo\Triangulo\obj\Debug\net8.0\Triangulo.AssemblyInfo.cs
+D:\EstudoCSharp\PrimeiraClasse\Triangulo\Triangulo\obj\Debug\net8.0\Triangulo.csproj.CoreCompileInputs.cache
+D:\EstudoCSharp\PrimeiraClasse\Triangulo\Triangulo\obj\Debug\net8.0\Triangulo.dll
+D:\EstudoCSharp\PrimeiraClasse\Triangulo\Triangulo\obj\Debug\net8.0\refint\Triangulo.dll
+D:\EstudoCSharp\PrimeiraClasse\Triangulo\Triangulo\obj\Debug\net8.0\Triangulo.pdb
+D:\EstudoCSharp\PrimeiraClasse\Triangulo\Triangulo\obj\Debug\net8.0\Triangulo.genruntimeconfig.cache
+D:\EstudoCSharp\PrimeiraClasse\Triangulo\Triangulo\obj\Debug\net8.0\ref\Triangulo.dll

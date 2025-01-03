@@ -1,0 +1,14 @@
+D:\EstudoCSharp\ExericioStatic\Funcionarios\Funcionarios\obj\Debug\net8.0\Funcionarios.GeneratedMSBuildEditorConfig.editorconfig
+D:\EstudoCSharp\ExericioStatic\Funcionarios\Funcionarios\obj\Debug\net8.0\Funcionarios.AssemblyInfoInputs.cache
+D:\EstudoCSharp\ExericioStatic\Funcionarios\Funcionarios\obj\Debug\net8.0\Funcionarios.AssemblyInfo.cs
+D:\EstudoCSharp\ExericioStatic\Funcionarios\Funcionarios\obj\Debug\net8.0\Funcionarios.csproj.CoreCompileInputs.cache
+D:\EstudoCSharp\ExericioStatic\Funcionarios\Funcionarios\bin\Debug\net8.0\Funcionarios.exe
+D:\EstudoCSharp\ExericioStatic\Funcionarios\Funcionarios\bin\Debug\net8.0\Funcionarios.deps.json
+D:\EstudoCSharp\ExericioStatic\Funcionarios\Funcionarios\bin\Debug\net8.0\Funcionarios.runtimeconfig.json
+D:\EstudoCSharp\ExericioStatic\Funcionarios\Funcionarios\bin\Debug\net8.0\Funcionarios.dll
+D:\EstudoCSharp\ExericioStatic\Funcionarios\Funcionarios\bin\Debug\net8.0\Funcionarios.pdb
+D:\EstudoCSharp\ExericioStatic\Funcionarios\Funcionarios\obj\Debug\net8.0\Funcionarios.dll
+D:\EstudoCSharp\ExericioStatic\Funcionarios\Funcionarios\obj\Debug\net8.0\refint\Funcionarios.dll
+D:\EstudoCSharp\ExericioStatic\Funcionarios\Funcionarios\obj\Debug\net8.0\Funcionarios.pdb
+D:\EstudoCSharp\ExericioStatic\Funcionarios\Funcionarios\obj\Debug\net8.0\Funcionarios.genruntimeconfig.cache
+D:\EstudoCSharp\ExericioStatic\Funcionarios\Funcionarios\obj\Debug\net8.0\ref\Funcionarios.dll

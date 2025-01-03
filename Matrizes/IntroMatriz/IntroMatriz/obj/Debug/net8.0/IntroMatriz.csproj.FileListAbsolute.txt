@@ -1,0 +1,14 @@
+D:\EstudoCSharp\ExericioStatic\IntroMatriz\IntroMatriz\bin\Debug\net8.0\IntroMatriz.exe
+D:\EstudoCSharp\ExericioStatic\IntroMatriz\IntroMatriz\bin\Debug\net8.0\IntroMatriz.deps.json
+D:\EstudoCSharp\ExericioStatic\IntroMatriz\IntroMatriz\bin\Debug\net8.0\IntroMatriz.runtimeconfig.json
+D:\EstudoCSharp\ExericioStatic\IntroMatriz\IntroMatriz\bin\Debug\net8.0\IntroMatriz.dll
+D:\EstudoCSharp\ExericioStatic\IntroMatriz\IntroMatriz\bin\Debug\net8.0\IntroMatriz.pdb
+D:\EstudoCSharp\ExericioStatic\IntroMatriz\IntroMatriz\obj\Debug\net8.0\IntroMatriz.GeneratedMSBuildEditorConfig.editorconfig
+D:\EstudoCSharp\ExericioStatic\IntroMatriz\IntroMatriz\obj\Debug\net8.0\IntroMatriz.AssemblyInfoInputs.cache
+D:\EstudoCSharp\ExericioStatic\IntroMatriz\IntroMatriz\obj\Debug\net8.0\IntroMatriz.AssemblyInfo.cs
+D:\EstudoCSharp\ExericioStatic\IntroMatriz\IntroMatriz\obj\Debug\net8.0\IntroMatriz.csproj.CoreCompileInputs.cache
+D:\EstudoCSharp\ExericioStatic\IntroMatriz\IntroMatriz\obj\Debug\net8.0\IntroMatriz.dll
+D:\EstudoCSharp\ExericioStatic\IntroMatriz\IntroMatriz\obj\Debug\net8.0\refint\IntroMatriz.dll
+D:\EstudoCSharp\ExericioStatic\IntroMatriz\IntroMatriz\obj\Debug\net8.0\IntroMatriz.pdb
+D:\EstudoCSharp\ExericioStatic\IntroMatriz\IntroMatriz\obj\Debug\net8.0\IntroMatriz.genruntimeconfig.cache
+D:\EstudoCSharp\ExericioStatic\IntroMatriz\IntroMatriz\obj\Debug\net8.0\ref\IntroMatriz.dll

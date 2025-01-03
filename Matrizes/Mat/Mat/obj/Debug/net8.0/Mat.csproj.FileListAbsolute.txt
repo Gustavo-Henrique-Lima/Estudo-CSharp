@@ -1,0 +1,14 @@
+D:\EstudoCSharp\ExericioStatic\Mat\Mat\bin\Debug\net8.0\Mat.exe
+D:\EstudoCSharp\ExericioStatic\Mat\Mat\bin\Debug\net8.0\Mat.deps.json
+D:\EstudoCSharp\ExericioStatic\Mat\Mat\bin\Debug\net8.0\Mat.runtimeconfig.json
+D:\EstudoCSharp\ExericioStatic\Mat\Mat\bin\Debug\net8.0\Mat.dll
+D:\EstudoCSharp\ExericioStatic\Mat\Mat\bin\Debug\net8.0\Mat.pdb
+D:\EstudoCSharp\ExericioStatic\Mat\Mat\obj\Debug\net8.0\Mat.GeneratedMSBuildEditorConfig.editorconfig
+D:\EstudoCSharp\ExericioStatic\Mat\Mat\obj\Debug\net8.0\Mat.AssemblyInfoInputs.cache
+D:\EstudoCSharp\ExericioStatic\Mat\Mat\obj\Debug\net8.0\Mat.AssemblyInfo.cs
+D:\EstudoCSharp\ExericioStatic\Mat\Mat\obj\Debug\net8.0\Mat.csproj.CoreCompileInputs.cache
+D:\EstudoCSharp\ExericioStatic\Mat\Mat\obj\Debug\net8.0\Mat.dll
+D:\EstudoCSharp\ExericioStatic\Mat\Mat\obj\Debug\net8.0\refint\Mat.dll
+D:\EstudoCSharp\ExericioStatic\Mat\Mat\obj\Debug\net8.0\Mat.pdb
+D:\EstudoCSharp\ExericioStatic\Mat\Mat\obj\Debug\net8.0\Mat.genruntimeconfig.cache
+D:\EstudoCSharp\ExericioStatic\Mat\Mat\obj\Debug\net8.0\ref\Mat.dll

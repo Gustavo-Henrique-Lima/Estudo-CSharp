@@ -1,0 +1,14 @@
+D:\EstudoCSharp\Data\DateTimeKind\DateTimeKind\bin\Debug\net8.0\DateTimeKind.exe
+D:\EstudoCSharp\Data\DateTimeKind\DateTimeKind\bin\Debug\net8.0\DateTimeKind.deps.json
+D:\EstudoCSharp\Data\DateTimeKind\DateTimeKind\bin\Debug\net8.0\DateTimeKind.runtimeconfig.json
+D:\EstudoCSharp\Data\DateTimeKind\DateTimeKind\bin\Debug\net8.0\DateTimeKind.dll
+D:\EstudoCSharp\Data\DateTimeKind\DateTimeKind\bin\Debug\net8.0\DateTimeKind.pdb
+D:\EstudoCSharp\Data\DateTimeKind\DateTimeKind\obj\Debug\net8.0\DateTimeKind.GeneratedMSBuildEditorConfig.editorconfig
+D:\EstudoCSharp\Data\DateTimeKind\DateTimeKind\obj\Debug\net8.0\DateTimeKind.AssemblyInfoInputs.cache
+D:\EstudoCSharp\Data\DateTimeKind\DateTimeKind\obj\Debug\net8.0\DateTimeKind.AssemblyInfo.cs
+D:\EstudoCSharp\Data\DateTimeKind\DateTimeKind\obj\Debug\net8.0\DateTimeKind.csproj.CoreCompileInputs.cache
+D:\EstudoCSharp\Data\DateTimeKind\DateTimeKind\obj\Debug\net8.0\DateTimeKind.dll
+D:\EstudoCSharp\Data\DateTimeKind\DateTimeKind\obj\Debug\net8.0\refint\DateTimeKind.dll
+D:\EstudoCSharp\Data\DateTimeKind\DateTimeKind\obj\Debug\net8.0\DateTimeKind.pdb
+D:\EstudoCSharp\Data\DateTimeKind\DateTimeKind\obj\Debug\net8.0\DateTimeKind.genruntimeconfig.cache
+D:\EstudoCSharp\Data\DateTimeKind\DateTimeKind\obj\Debug\net8.0\ref\DateTimeKind.dll

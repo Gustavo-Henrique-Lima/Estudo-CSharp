@@ -1,0 +1,14 @@
+D:\EstudoCSharp\ExerciciosClasses3\SalaDeAula\SalaDeAula\bin\Debug\net8.0\SalaDeAula.exe
+D:\EstudoCSharp\ExerciciosClasses3\SalaDeAula\SalaDeAula\bin\Debug\net8.0\SalaDeAula.deps.json
+D:\EstudoCSharp\ExerciciosClasses3\SalaDeAula\SalaDeAula\bin\Debug\net8.0\SalaDeAula.runtimeconfig.json
+D:\EstudoCSharp\ExerciciosClasses3\SalaDeAula\SalaDeAula\bin\Debug\net8.0\SalaDeAula.dll
+D:\EstudoCSharp\ExerciciosClasses3\SalaDeAula\SalaDeAula\bin\Debug\net8.0\SalaDeAula.pdb
+D:\EstudoCSharp\ExerciciosClasses3\SalaDeAula\SalaDeAula\obj\Debug\net8.0\SalaDeAula.GeneratedMSBuildEditorConfig.editorconfig
+D:\EstudoCSharp\ExerciciosClasses3\SalaDeAula\SalaDeAula\obj\Debug\net8.0\SalaDeAula.AssemblyInfoInputs.cache
+D:\EstudoCSharp\ExerciciosClasses3\SalaDeAula\SalaDeAula\obj\Debug\net8.0\SalaDeAula.AssemblyInfo.cs
+D:\EstudoCSharp\ExerciciosClasses3\SalaDeAula\SalaDeAula\obj\Debug\net8.0\SalaDeAula.csproj.CoreCompileInputs.cache
+D:\EstudoCSharp\ExerciciosClasses3\SalaDeAula\SalaDeAula\obj\Debug\net8.0\SalaDeAula.dll
+D:\EstudoCSharp\ExerciciosClasses3\SalaDeAula\SalaDeAula\obj\Debug\net8.0\refint\SalaDeAula.dll
+D:\EstudoCSharp\ExerciciosClasses3\SalaDeAula\SalaDeAula\obj\Debug\net8.0\SalaDeAula.pdb
+D:\EstudoCSharp\ExerciciosClasses3\SalaDeAula\SalaDeAula\obj\Debug\net8.0\SalaDeAula.genruntimeconfig.cache
+D:\EstudoCSharp\ExerciciosClasses3\SalaDeAula\SalaDeAula\obj\Debug\net8.0\ref\SalaDeAula.dll

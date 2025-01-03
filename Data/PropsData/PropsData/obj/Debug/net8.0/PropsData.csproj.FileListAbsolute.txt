@@ -1,0 +1,14 @@
+D:\EstudoCSharp\Data\PropsData\PropsData\bin\Debug\net8.0\PropsData.exe
+D:\EstudoCSharp\Data\PropsData\PropsData\bin\Debug\net8.0\PropsData.deps.json
+D:\EstudoCSharp\Data\PropsData\PropsData\bin\Debug\net8.0\PropsData.runtimeconfig.json
+D:\EstudoCSharp\Data\PropsData\PropsData\bin\Debug\net8.0\PropsData.dll
+D:\EstudoCSharp\Data\PropsData\PropsData\bin\Debug\net8.0\PropsData.pdb
+D:\EstudoCSharp\Data\PropsData\PropsData\obj\Debug\net8.0\PropsData.GeneratedMSBuildEditorConfig.editorconfig
+D:\EstudoCSharp\Data\PropsData\PropsData\obj\Debug\net8.0\PropsData.AssemblyInfoInputs.cache
+D:\EstudoCSharp\Data\PropsData\PropsData\obj\Debug\net8.0\PropsData.AssemblyInfo.cs
+D:\EstudoCSharp\Data\PropsData\PropsData\obj\Debug\net8.0\PropsData.csproj.CoreCompileInputs.cache
+D:\EstudoCSharp\Data\PropsData\PropsData\obj\Debug\net8.0\PropsData.dll
+D:\EstudoCSharp\Data\PropsData\PropsData\obj\Debug\net8.0\refint\PropsData.dll
+D:\EstudoCSharp\Data\PropsData\PropsData\obj\Debug\net8.0\PropsData.pdb
+D:\EstudoCSharp\Data\PropsData\PropsData\obj\Debug\net8.0\PropsData.genruntimeconfig.cache
+D:\EstudoCSharp\Data\PropsData\PropsData\obj\Debug\net8.0\ref\PropsData.dll

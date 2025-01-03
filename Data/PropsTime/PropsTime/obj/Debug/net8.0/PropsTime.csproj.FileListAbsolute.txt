@@ -1,0 +1,14 @@
+D:\EstudoCSharp\Data\PropsTime\PropsTime\bin\Debug\net8.0\PropsTime.exe
+D:\EstudoCSharp\Data\PropsTime\PropsTime\bin\Debug\net8.0\PropsTime.deps.json
+D:\EstudoCSharp\Data\PropsTime\PropsTime\bin\Debug\net8.0\PropsTime.runtimeconfig.json
+D:\EstudoCSharp\Data\PropsTime\PropsTime\bin\Debug\net8.0\PropsTime.dll
+D:\EstudoCSharp\Data\PropsTime\PropsTime\bin\Debug\net8.0\PropsTime.pdb
+D:\EstudoCSharp\Data\PropsTime\PropsTime\obj\Debug\net8.0\PropsTime.GeneratedMSBuildEditorConfig.editorconfig
+D:\EstudoCSharp\Data\PropsTime\PropsTime\obj\Debug\net8.0\PropsTime.AssemblyInfoInputs.cache
+D:\EstudoCSharp\Data\PropsTime\PropsTime\obj\Debug\net8.0\PropsTime.AssemblyInfo.cs
+D:\EstudoCSharp\Data\PropsTime\PropsTime\obj\Debug\net8.0\PropsTime.csproj.CoreCompileInputs.cache
+D:\EstudoCSharp\Data\PropsTime\PropsTime\obj\Debug\net8.0\PropsTime.dll
+D:\EstudoCSharp\Data\PropsTime\PropsTime\obj\Debug\net8.0\refint\PropsTime.dll
+D:\EstudoCSharp\Data\PropsTime\PropsTime\obj\Debug\net8.0\PropsTime.pdb
+D:\EstudoCSharp\Data\PropsTime\PropsTime\obj\Debug\net8.0\PropsTime.genruntimeconfig.cache
+D:\EstudoCSharp\Data\PropsTime\PropsTime\obj\Debug\net8.0\ref\PropsTime.dll

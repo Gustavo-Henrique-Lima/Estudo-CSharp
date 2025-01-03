@@ -1,0 +1,14 @@
+D:\EstudoCSharp\FuncaoMaiorNumero\FuncaoMaiorNumero\bin\Debug\net8.0\FuncaoMaiorNumero.exe
+D:\EstudoCSharp\FuncaoMaiorNumero\FuncaoMaiorNumero\bin\Debug\net8.0\FuncaoMaiorNumero.deps.json
+D:\EstudoCSharp\FuncaoMaiorNumero\FuncaoMaiorNumero\bin\Debug\net8.0\FuncaoMaiorNumero.runtimeconfig.json
+D:\EstudoCSharp\FuncaoMaiorNumero\FuncaoMaiorNumero\bin\Debug\net8.0\FuncaoMaiorNumero.dll
+D:\EstudoCSharp\FuncaoMaiorNumero\FuncaoMaiorNumero\bin\Debug\net8.0\FuncaoMaiorNumero.pdb
+D:\EstudoCSharp\FuncaoMaiorNumero\FuncaoMaiorNumero\obj\Debug\net8.0\FuncaoMaiorNumero.GeneratedMSBuildEditorConfig.editorconfig
+D:\EstudoCSharp\FuncaoMaiorNumero\FuncaoMaiorNumero\obj\Debug\net8.0\FuncaoMaiorNumero.AssemblyInfoInputs.cache
+D:\EstudoCSharp\FuncaoMaiorNumero\FuncaoMaiorNumero\obj\Debug\net8.0\FuncaoMaiorNumero.AssemblyInfo.cs
+D:\EstudoCSharp\FuncaoMaiorNumero\FuncaoMaiorNumero\obj\Debug\net8.0\FuncaoMaiorNumero.csproj.CoreCompileInputs.cache
+D:\EstudoCSharp\FuncaoMaiorNumero\FuncaoMaiorNumero\obj\Debug\net8.0\FuncaoMaiorNumero.dll
+D:\EstudoCSharp\FuncaoMaiorNumero\FuncaoMaiorNumero\obj\Debug\net8.0\refint\FuncaoMaiorNumero.dll
+D:\EstudoCSharp\FuncaoMaiorNumero\FuncaoMaiorNumero\obj\Debug\net8.0\FuncaoMaiorNumero.pdb
+D:\EstudoCSharp\FuncaoMaiorNumero\FuncaoMaiorNumero\obj\Debug\net8.0\FuncaoMaiorNumero.genruntimeconfig.cache
+D:\EstudoCSharp\FuncaoMaiorNumero\FuncaoMaiorNumero\obj\Debug\net8.0\ref\FuncaoMaiorNumero.dll

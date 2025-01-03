@@ -1,0 +1,14 @@
+D:\EstudoCSharp\ExerciciosClasses1\PessoaVelha\PessoaVelha\bin\Debug\net8.0\PessoaVelha.exe
+D:\EstudoCSharp\ExerciciosClasses1\PessoaVelha\PessoaVelha\bin\Debug\net8.0\PessoaVelha.deps.json
+D:\EstudoCSharp\ExerciciosClasses1\PessoaVelha\PessoaVelha\bin\Debug\net8.0\PessoaVelha.runtimeconfig.json
+D:\EstudoCSharp\ExerciciosClasses1\PessoaVelha\PessoaVelha\bin\Debug\net8.0\PessoaVelha.dll
+D:\EstudoCSharp\ExerciciosClasses1\PessoaVelha\PessoaVelha\bin\Debug\net8.0\PessoaVelha.pdb
+D:\EstudoCSharp\ExerciciosClasses1\PessoaVelha\PessoaVelha\obj\Debug\net8.0\PessoaVelha.GeneratedMSBuildEditorConfig.editorconfig
+D:\EstudoCSharp\ExerciciosClasses1\PessoaVelha\PessoaVelha\obj\Debug\net8.0\PessoaVelha.AssemblyInfoInputs.cache
+D:\EstudoCSharp\ExerciciosClasses1\PessoaVelha\PessoaVelha\obj\Debug\net8.0\PessoaVelha.AssemblyInfo.cs
+D:\EstudoCSharp\ExerciciosClasses1\PessoaVelha\PessoaVelha\obj\Debug\net8.0\PessoaVelha.csproj.CoreCompileInputs.cache
+D:\EstudoCSharp\ExerciciosClasses1\PessoaVelha\PessoaVelha\obj\Debug\net8.0\PessoaVelha.dll
+D:\EstudoCSharp\ExerciciosClasses1\PessoaVelha\PessoaVelha\obj\Debug\net8.0\refint\PessoaVelha.dll
+D:\EstudoCSharp\ExerciciosClasses1\PessoaVelha\PessoaVelha\obj\Debug\net8.0\PessoaVelha.pdb
+D:\EstudoCSharp\ExerciciosClasses1\PessoaVelha\PessoaVelha\obj\Debug\net8.0\PessoaVelha.genruntimeconfig.cache
+D:\EstudoCSharp\ExerciciosClasses1\PessoaVelha\PessoaVelha\obj\Debug\net8.0\ref\PessoaVelha.dll

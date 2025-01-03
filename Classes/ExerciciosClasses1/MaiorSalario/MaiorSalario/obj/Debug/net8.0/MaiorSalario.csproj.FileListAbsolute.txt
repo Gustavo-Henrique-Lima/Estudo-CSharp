@@ -1,0 +1,14 @@
+D:\EstudoCSharp\ExerciciosClasses1\MaiorSalario\MaiorSalario\bin\Debug\net8.0\MaiorSalario.exe
+D:\EstudoCSharp\ExerciciosClasses1\MaiorSalario\MaiorSalario\bin\Debug\net8.0\MaiorSalario.deps.json
+D:\EstudoCSharp\ExerciciosClasses1\MaiorSalario\MaiorSalario\bin\Debug\net8.0\MaiorSalario.runtimeconfig.json
+D:\EstudoCSharp\ExerciciosClasses1\MaiorSalario\MaiorSalario\bin\Debug\net8.0\MaiorSalario.dll
+D:\EstudoCSharp\ExerciciosClasses1\MaiorSalario\MaiorSalario\bin\Debug\net8.0\MaiorSalario.pdb
+D:\EstudoCSharp\ExerciciosClasses1\MaiorSalario\MaiorSalario\obj\Debug\net8.0\MaiorSalario.GeneratedMSBuildEditorConfig.editorconfig
+D:\EstudoCSharp\ExerciciosClasses1\MaiorSalario\MaiorSalario\obj\Debug\net8.0\MaiorSalario.AssemblyInfoInputs.cache
+D:\EstudoCSharp\ExerciciosClasses1\MaiorSalario\MaiorSalario\obj\Debug\net8.0\MaiorSalario.AssemblyInfo.cs
+D:\EstudoCSharp\ExerciciosClasses1\MaiorSalario\MaiorSalario\obj\Debug\net8.0\MaiorSalario.csproj.CoreCompileInputs.cache
+D:\EstudoCSharp\ExerciciosClasses1\MaiorSalario\MaiorSalario\obj\Debug\net8.0\MaiorSalario.dll
+D:\EstudoCSharp\ExerciciosClasses1\MaiorSalario\MaiorSalario\obj\Debug\net8.0\refint\MaiorSalario.dll
+D:\EstudoCSharp\ExerciciosClasses1\MaiorSalario\MaiorSalario\obj\Debug\net8.0\MaiorSalario.pdb
+D:\EstudoCSharp\ExerciciosClasses1\MaiorSalario\MaiorSalario\obj\Debug\net8.0\MaiorSalario.genruntimeconfig.cache
+D:\EstudoCSharp\ExerciciosClasses1\MaiorSalario\MaiorSalario\obj\Debug\net8.0\ref\MaiorSalario.dll

@@ -1,0 +1,14 @@
+D:\EstudoCSharp\ExericioStatic\StudyList\StudyList\bin\Debug\net8.0\StudyList.exe
+D:\EstudoCSharp\ExericioStatic\StudyList\StudyList\bin\Debug\net8.0\StudyList.deps.json
+D:\EstudoCSharp\ExericioStatic\StudyList\StudyList\bin\Debug\net8.0\StudyList.runtimeconfig.json
+D:\EstudoCSharp\ExericioStatic\StudyList\StudyList\bin\Debug\net8.0\StudyList.dll
+D:\EstudoCSharp\ExericioStatic\StudyList\StudyList\bin\Debug\net8.0\StudyList.pdb
+D:\EstudoCSharp\ExericioStatic\StudyList\StudyList\obj\Debug\net8.0\StudyList.GeneratedMSBuildEditorConfig.editorconfig
+D:\EstudoCSharp\ExericioStatic\StudyList\StudyList\obj\Debug\net8.0\StudyList.AssemblyInfoInputs.cache
+D:\EstudoCSharp\ExericioStatic\StudyList\StudyList\obj\Debug\net8.0\StudyList.AssemblyInfo.cs
+D:\EstudoCSharp\ExericioStatic\StudyList\StudyList\obj\Debug\net8.0\StudyList.csproj.CoreCompileInputs.cache
+D:\EstudoCSharp\ExericioStatic\StudyList\StudyList\obj\Debug\net8.0\StudyList.dll
+D:\EstudoCSharp\ExericioStatic\StudyList\StudyList\obj\Debug\net8.0\refint\StudyList.dll
+D:\EstudoCSharp\ExericioStatic\StudyList\StudyList\obj\Debug\net8.0\StudyList.pdb
+D:\EstudoCSharp\ExericioStatic\StudyList\StudyList\obj\Debug\net8.0\StudyList.genruntimeconfig.cache
+D:\EstudoCSharp\ExericioStatic\StudyList\StudyList\obj\Debug\net8.0\ref\StudyList.dll

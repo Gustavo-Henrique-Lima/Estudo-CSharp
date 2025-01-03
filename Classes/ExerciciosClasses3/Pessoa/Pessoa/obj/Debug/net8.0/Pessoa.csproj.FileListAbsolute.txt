@@ -1,0 +1,14 @@
+D:\EstudoCSharp\ExerciciosClasses3\Pessoa\Pessoa\bin\Debug\net8.0\Pessoa.exe
+D:\EstudoCSharp\ExerciciosClasses3\Pessoa\Pessoa\bin\Debug\net8.0\Pessoa.deps.json
+D:\EstudoCSharp\ExerciciosClasses3\Pessoa\Pessoa\bin\Debug\net8.0\Pessoa.runtimeconfig.json
+D:\EstudoCSharp\ExerciciosClasses3\Pessoa\Pessoa\bin\Debug\net8.0\Pessoa.dll
+D:\EstudoCSharp\ExerciciosClasses3\Pessoa\Pessoa\bin\Debug\net8.0\Pessoa.pdb
+D:\EstudoCSharp\ExerciciosClasses3\Pessoa\Pessoa\obj\Debug\net8.0\Pessoa.GeneratedMSBuildEditorConfig.editorconfig
+D:\EstudoCSharp\ExerciciosClasses3\Pessoa\Pessoa\obj\Debug\net8.0\Pessoa.AssemblyInfoInputs.cache
+D:\EstudoCSharp\ExerciciosClasses3\Pessoa\Pessoa\obj\Debug\net8.0\Pessoa.AssemblyInfo.cs
+D:\EstudoCSharp\ExerciciosClasses3\Pessoa\Pessoa\obj\Debug\net8.0\Pessoa.csproj.CoreCompileInputs.cache
+D:\EstudoCSharp\ExerciciosClasses3\Pessoa\Pessoa\obj\Debug\net8.0\Pessoa.dll
+D:\EstudoCSharp\ExerciciosClasses3\Pessoa\Pessoa\obj\Debug\net8.0\refint\Pessoa.dll
+D:\EstudoCSharp\ExerciciosClasses3\Pessoa\Pessoa\obj\Debug\net8.0\Pessoa.pdb
+D:\EstudoCSharp\ExerciciosClasses3\Pessoa\Pessoa\obj\Debug\net8.0\Pessoa.genruntimeconfig.cache
+D:\EstudoCSharp\ExerciciosClasses3\Pessoa\Pessoa\obj\Debug\net8.0\ref\Pessoa.dll

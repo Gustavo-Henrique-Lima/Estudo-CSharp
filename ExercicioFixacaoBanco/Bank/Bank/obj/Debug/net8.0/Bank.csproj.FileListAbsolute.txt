@@ -1,0 +1,14 @@
+D:\EstudoCSharp\ExericioStatic\Bank\Bank\obj\Debug\net8.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+D:\EstudoCSharp\ExericioStatic\Bank\Bank\obj\Debug\net8.0\Bank.AssemblyInfoInputs.cache
+D:\EstudoCSharp\ExericioStatic\Bank\Bank\obj\Debug\net8.0\Bank.AssemblyInfo.cs
+D:\EstudoCSharp\ExericioStatic\Bank\Bank\obj\Debug\net8.0\Bank.csproj.CoreCompileInputs.cache
+D:\EstudoCSharp\ExericioStatic\Bank\Bank\bin\Debug\net8.0\Bank.exe
+D:\EstudoCSharp\ExericioStatic\Bank\Bank\bin\Debug\net8.0\Bank.deps.json
+D:\EstudoCSharp\ExericioStatic\Bank\Bank\bin\Debug\net8.0\Bank.runtimeconfig.json
+D:\EstudoCSharp\ExericioStatic\Bank\Bank\bin\Debug\net8.0\Bank.dll
+D:\EstudoCSharp\ExericioStatic\Bank\Bank\bin\Debug\net8.0\Bank.pdb
+D:\EstudoCSharp\ExericioStatic\Bank\Bank\obj\Debug\net8.0\Bank.dll
+D:\EstudoCSharp\ExericioStatic\Bank\Bank\obj\Debug\net8.0\refint\Bank.dll
+D:\EstudoCSharp\ExericioStatic\Bank\Bank\obj\Debug\net8.0\Bank.pdb
+D:\EstudoCSharp\ExericioStatic\Bank\Bank\obj\Debug\net8.0\Bank.genruntimeconfig.cache
+D:\EstudoCSharp\ExericioStatic\Bank\Bank\obj\Debug\net8.0\ref\Bank.dll

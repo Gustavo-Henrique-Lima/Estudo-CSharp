@@ -1,0 +1,14 @@
+D:\EstudoCSharp\ExerciciosClasses3\Retangulo\Retangulo\bin\Debug\net8.0\Retangulo.exe
+D:\EstudoCSharp\ExerciciosClasses3\Retangulo\Retangulo\bin\Debug\net8.0\Retangulo.deps.json
+D:\EstudoCSharp\ExerciciosClasses3\Retangulo\Retangulo\bin\Debug\net8.0\Retangulo.runtimeconfig.json
+D:\EstudoCSharp\ExerciciosClasses3\Retangulo\Retangulo\bin\Debug\net8.0\Retangulo.dll
+D:\EstudoCSharp\ExerciciosClasses3\Retangulo\Retangulo\bin\Debug\net8.0\Retangulo.pdb
+D:\EstudoCSharp\ExerciciosClasses3\Retangulo\Retangulo\obj\Debug\net8.0\Retangulo.GeneratedMSBuildEditorConfig.editorconfig
+D:\EstudoCSharp\ExerciciosClasses3\Retangulo\Retangulo\obj\Debug\net8.0\Retangulo.AssemblyInfoInputs.cache
+D:\EstudoCSharp\ExerciciosClasses3\Retangulo\Retangulo\obj\Debug\net8.0\Retangulo.AssemblyInfo.cs
+D:\EstudoCSharp\ExerciciosClasses3\Retangulo\Retangulo\obj\Debug\net8.0\Retangulo.csproj.CoreCompileInputs.cache
+D:\EstudoCSharp\ExerciciosClasses3\Retangulo\Retangulo\obj\Debug\net8.0\Retangulo.dll
+D:\EstudoCSharp\ExerciciosClasses3\Retangulo\Retangulo\obj\Debug\net8.0\refint\Retangulo.dll
+D:\EstudoCSharp\ExerciciosClasses3\Retangulo\Retangulo\obj\Debug\net8.0\Retangulo.pdb
+D:\EstudoCSharp\ExerciciosClasses3\Retangulo\Retangulo\obj\Debug\net8.0\Retangulo.genruntimeconfig.cache
+D:\EstudoCSharp\ExerciciosClasses3\Retangulo\Retangulo\obj\Debug\net8.0\ref\Retangulo.dll

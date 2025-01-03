@@ -1,0 +1,14 @@
+D:\EstudoCSharp\Exercicios2\Exercicio2\Exercicio2\bin\Debug\net8.0\Exercicio2.exe
+D:\EstudoCSharp\Exercicios2\Exercicio2\Exercicio2\bin\Debug\net8.0\Exercicio2.deps.json
+D:\EstudoCSharp\Exercicios2\Exercicio2\Exercicio2\bin\Debug\net8.0\Exercicio2.runtimeconfig.json
+D:\EstudoCSharp\Exercicios2\Exercicio2\Exercicio2\bin\Debug\net8.0\Exercicio2.dll
+D:\EstudoCSharp\Exercicios2\Exercicio2\Exercicio2\bin\Debug\net8.0\Exercicio2.pdb
+D:\EstudoCSharp\Exercicios2\Exercicio2\Exercicio2\obj\Debug\net8.0\Exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+D:\EstudoCSharp\Exercicios2\Exercicio2\Exercicio2\obj\Debug\net8.0\Exercicio2.AssemblyInfoInputs.cache
+D:\EstudoCSharp\Exercicios2\Exercicio2\Exercicio2\obj\Debug\net8.0\Exercicio2.AssemblyInfo.cs
+D:\EstudoCSharp\Exercicios2\Exercicio2\Exercicio2\obj\Debug\net8.0\Exercicio2.csproj.CoreCompileInputs.cache
+D:\EstudoCSharp\Exercicios2\Exercicio2\Exercicio2\obj\Debug\net8.0\Exercicio2.dll
+D:\EstudoCSharp\Exercicios2\Exercicio2\Exercicio2\obj\Debug\net8.0\refint\Exercicio2.dll
+D:\EstudoCSharp\Exercicios2\Exercicio2\Exercicio2\obj\Debug\net8.0\Exercicio2.pdb
+D:\EstudoCSharp\Exercicios2\Exercicio2\Exercicio2\obj\Debug\net8.0\Exercicio2.genruntimeconfig.cache
+D:\EstudoCSharp\Exercicios2\Exercicio2\Exercicio2\obj\Debug\net8.0\ref\Exercicio2.dll

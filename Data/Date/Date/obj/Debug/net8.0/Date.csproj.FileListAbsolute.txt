@@ -1,0 +1,14 @@
+D:\EstudoCSharp\Data\Date\Date\bin\Debug\net8.0\Date.exe
+D:\EstudoCSharp\Data\Date\Date\bin\Debug\net8.0\Date.deps.json
+D:\EstudoCSharp\Data\Date\Date\bin\Debug\net8.0\Date.runtimeconfig.json
+D:\EstudoCSharp\Data\Date\Date\bin\Debug\net8.0\Date.dll
+D:\EstudoCSharp\Data\Date\Date\bin\Debug\net8.0\Date.pdb
+D:\EstudoCSharp\Data\Date\Date\obj\Debug\net8.0\Date.GeneratedMSBuildEditorConfig.editorconfig
+D:\EstudoCSharp\Data\Date\Date\obj\Debug\net8.0\Date.AssemblyInfoInputs.cache
+D:\EstudoCSharp\Data\Date\Date\obj\Debug\net8.0\Date.AssemblyInfo.cs
+D:\EstudoCSharp\Data\Date\Date\obj\Debug\net8.0\Date.csproj.CoreCompileInputs.cache
+D:\EstudoCSharp\Data\Date\Date\obj\Debug\net8.0\Date.dll
+D:\EstudoCSharp\Data\Date\Date\obj\Debug\net8.0\refint\Date.dll
+D:\EstudoCSharp\Data\Date\Date\obj\Debug\net8.0\Date.pdb
+D:\EstudoCSharp\Data\Date\Date\obj\Debug\net8.0\Date.genruntimeconfig.cache
+D:\EstudoCSharp\Data\Date\Date\obj\Debug\net8.0\ref\Date.dll

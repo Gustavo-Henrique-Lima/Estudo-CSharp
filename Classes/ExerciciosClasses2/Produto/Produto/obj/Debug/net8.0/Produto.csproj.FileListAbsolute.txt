@@ -1,0 +1,14 @@
+D:\EstudoCSharp\ExerciciosClasses2\Produto\Produto\obj\Debug\net8.0\Produto.GeneratedMSBuildEditorConfig.editorconfig
+D:\EstudoCSharp\ExerciciosClasses2\Produto\Produto\obj\Debug\net8.0\Produto.AssemblyInfoInputs.cache
+D:\EstudoCSharp\ExerciciosClasses2\Produto\Produto\obj\Debug\net8.0\Produto.AssemblyInfo.cs
+D:\EstudoCSharp\ExerciciosClasses2\Produto\Produto\obj\Debug\net8.0\Produto.csproj.CoreCompileInputs.cache
+D:\EstudoCSharp\ExerciciosClasses2\Produto\Produto\bin\Debug\net8.0\Produto.exe
+D:\EstudoCSharp\ExerciciosClasses2\Produto\Produto\bin\Debug\net8.0\Produto.deps.json
+D:\EstudoCSharp\ExerciciosClasses2\Produto\Produto\bin\Debug\net8.0\Produto.runtimeconfig.json
+D:\EstudoCSharp\ExerciciosClasses2\Produto\Produto\bin\Debug\net8.0\Produto.dll
+D:\EstudoCSharp\ExerciciosClasses2\Produto\Produto\bin\Debug\net8.0\Produto.pdb
+D:\EstudoCSharp\ExerciciosClasses2\Produto\Produto\obj\Debug\net8.0\Produto.dll
+D:\EstudoCSharp\ExerciciosClasses2\Produto\Produto\obj\Debug\net8.0\refint\Produto.dll
+D:\EstudoCSharp\ExerciciosClasses2\Produto\Produto\obj\Debug\net8.0\Produto.pdb
+D:\EstudoCSharp\ExerciciosClasses2\Produto\Produto\obj\Debug\net8.0\Produto.genruntimeconfig.cache
+D:\EstudoCSharp\ExerciciosClasses2\Produto\Produto\obj\Debug\net8.0\ref\Produto.dll

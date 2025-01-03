@@ -1,0 +1,28 @@
+D:\EstudoCSharp\ExericioStatic\Aluguel\Aluguel\obj\Debug\net8.0\Aluguel.GeneratedMSBuildEditorConfig.editorconfig
+D:\EstudoCSharp\ExericioStatic\Aluguel\Aluguel\obj\Debug\net8.0\Aluguel.AssemblyInfoInputs.cache
+D:\EstudoCSharp\ExericioStatic\Aluguel\Aluguel\obj\Debug\net8.0\Aluguel.AssemblyInfo.cs
+D:\EstudoCSharp\ExericioStatic\Aluguel\Aluguel\obj\Debug\net8.0\Aluguel.csproj.CoreCompileInputs.cache
+D:\EstudoCSharp\ExericioStatic\Aluguel\Aluguel\bin\Debug\net8.0\Aluguel.exe
+D:\EstudoCSharp\ExericioStatic\Aluguel\Aluguel\bin\Debug\net8.0\Aluguel.deps.json
+D:\EstudoCSharp\ExericioStatic\Aluguel\Aluguel\bin\Debug\net8.0\Aluguel.runtimeconfig.json
+D:\EstudoCSharp\ExericioStatic\Aluguel\Aluguel\bin\Debug\net8.0\Aluguel.dll
+D:\EstudoCSharp\ExericioStatic\Aluguel\Aluguel\bin\Debug\net8.0\Aluguel.pdb
+D:\EstudoCSharp\ExericioStatic\Aluguel\Aluguel\obj\Debug\net8.0\Aluguel.dll
+D:\EstudoCSharp\ExericioStatic\Aluguel\Aluguel\obj\Debug\net8.0\refint\Aluguel.dll
+D:\EstudoCSharp\ExericioStatic\Aluguel\Aluguel\obj\Debug\net8.0\Aluguel.pdb
+D:\EstudoCSharp\ExericioStatic\Aluguel\Aluguel\obj\Debug\net8.0\Aluguel.genruntimeconfig.cache
+D:\EstudoCSharp\ExericioStatic\Aluguel\Aluguel\obj\Debug\net8.0\ref\Aluguel.dll
+D:\EstudoCSharp\Vector I\Aluguel\Aluguel\bin\Debug\net8.0\Aluguel.exe
+D:\EstudoCSharp\Vector I\Aluguel\Aluguel\bin\Debug\net8.0\Aluguel.deps.json
+D:\EstudoCSharp\Vector I\Aluguel\Aluguel\bin\Debug\net8.0\Aluguel.runtimeconfig.json
+D:\EstudoCSharp\Vector I\Aluguel\Aluguel\bin\Debug\net8.0\Aluguel.dll
+D:\EstudoCSharp\Vector I\Aluguel\Aluguel\bin\Debug\net8.0\Aluguel.pdb
+D:\EstudoCSharp\Vector I\Aluguel\Aluguel\obj\Debug\net8.0\Aluguel.GeneratedMSBuildEditorConfig.editorconfig
+D:\EstudoCSharp\Vector I\Aluguel\Aluguel\obj\Debug\net8.0\Aluguel.AssemblyInfoInputs.cache
+D:\EstudoCSharp\Vector I\Aluguel\Aluguel\obj\Debug\net8.0\Aluguel.AssemblyInfo.cs
+D:\EstudoCSharp\Vector I\Aluguel\Aluguel\obj\Debug\net8.0\Aluguel.csproj.CoreCompileInputs.cache
+D:\EstudoCSharp\Vector I\Aluguel\Aluguel\obj\Debug\net8.0\Aluguel.dll
+D:\EstudoCSharp\Vector I\Aluguel\Aluguel\obj\Debug\net8.0\refint\Aluguel.dll
+D:\EstudoCSharp\Vector I\Aluguel\Aluguel\obj\Debug\net8.0\Aluguel.pdb
+D:\EstudoCSharp\Vector I\Aluguel\Aluguel\obj\Debug\net8.0\Aluguel.genruntimeconfig.cache
+D:\EstudoCSharp\Vector I\Aluguel\Aluguel\obj\Debug\net8.0\ref\Aluguel.dll

@@ -1,0 +1,14 @@
+D:\EstudoCSharp\ExericioStatic\Conversor\Conversor\bin\Debug\net8.0\Conversor.exe
+D:\EstudoCSharp\ExericioStatic\Conversor\Conversor\bin\Debug\net8.0\Conversor.deps.json
+D:\EstudoCSharp\ExericioStatic\Conversor\Conversor\bin\Debug\net8.0\Conversor.runtimeconfig.json
+D:\EstudoCSharp\ExericioStatic\Conversor\Conversor\bin\Debug\net8.0\Conversor.dll
+D:\EstudoCSharp\ExericioStatic\Conversor\Conversor\bin\Debug\net8.0\Conversor.pdb
+D:\EstudoCSharp\ExericioStatic\Conversor\Conversor\obj\Debug\net8.0\Conversor.GeneratedMSBuildEditorConfig.editorconfig
+D:\EstudoCSharp\ExericioStatic\Conversor\Conversor\obj\Debug\net8.0\Conversor.AssemblyInfoInputs.cache
+D:\EstudoCSharp\ExericioStatic\Conversor\Conversor\obj\Debug\net8.0\Conversor.AssemblyInfo.cs
+D:\EstudoCSharp\ExericioStatic\Conversor\Conversor\obj\Debug\net8.0\Conversor.csproj.CoreCompileInputs.cache
+D:\EstudoCSharp\ExericioStatic\Conversor\Conversor\obj\Debug\net8.0\Conversor.dll
+D:\EstudoCSharp\ExericioStatic\Conversor\Conversor\obj\Debug\net8.0\refint\Conversor.dll
+D:\EstudoCSharp\ExericioStatic\Conversor\Conversor\obj\Debug\net8.0\Conversor.pdb
+D:\EstudoCSharp\ExericioStatic\Conversor\Conversor\obj\Debug\net8.0\Conversor.genruntimeconfig.cache
+D:\EstudoCSharp\ExericioStatic\Conversor\Conversor\obj\Debug\net8.0\ref\Conversor.dll
