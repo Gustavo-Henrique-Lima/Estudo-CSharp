@@ -1,0 +1,15 @@
+D:\EstudoCSharp\Enum\Pedido\Pedido\obj\Debug\net8.0\Pedido.GeneratedMSBuildEditorConfig.editorconfig
+D:\EstudoCSharp\Enum\Pedido\Pedido\obj\Debug\net8.0\Pedido.AssemblyInfoInputs.cache
+D:\EstudoCSharp\Enum\Pedido\Pedido\obj\Debug\net8.0\Pedido.AssemblyInfo.cs
+D:\EstudoCSharp\Enum\Pedido\Pedido\obj\Debug\net8.0\Pedido.csproj.CoreCompileInputs.cache
+D:\EstudoCSharp\Enum\Pedido\Pedido\obj\Debug\net8.0\Pedido.sourcelink.json
+D:\EstudoCSharp\Enum\Pedido\Pedido\bin\Debug\net8.0\Pedido.exe
+D:\EstudoCSharp\Enum\Pedido\Pedido\bin\Debug\net8.0\Pedido.deps.json
+D:\EstudoCSharp\Enum\Pedido\Pedido\bin\Debug\net8.0\Pedido.runtimeconfig.json
+D:\EstudoCSharp\Enum\Pedido\Pedido\bin\Debug\net8.0\Pedido.dll
+D:\EstudoCSharp\Enum\Pedido\Pedido\bin\Debug\net8.0\Pedido.pdb
+D:\EstudoCSharp\Enum\Pedido\Pedido\obj\Debug\net8.0\Pedido.dll
+D:\EstudoCSharp\Enum\Pedido\Pedido\obj\Debug\net8.0\refint\Pedido.dll
+D:\EstudoCSharp\Enum\Pedido\Pedido\obj\Debug\net8.0\Pedido.pdb
+D:\EstudoCSharp\Enum\Pedido\Pedido\obj\Debug\net8.0\Pedido.genruntimeconfig.cache
+D:\EstudoCSharp\Enum\Pedido\Pedido\obj\Debug\net8.0\ref\Pedido.dll
