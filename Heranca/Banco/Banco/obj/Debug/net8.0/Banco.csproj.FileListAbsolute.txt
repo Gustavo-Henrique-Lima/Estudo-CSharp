@@ -1,0 +1,15 @@
+D:\EstudoCSharp\Heranca\Banco\Banco\bin\Debug\net8.0\Banco.exe
+D:\EstudoCSharp\Heranca\Banco\Banco\bin\Debug\net8.0\Banco.deps.json
+D:\EstudoCSharp\Heranca\Banco\Banco\bin\Debug\net8.0\Banco.runtimeconfig.json
+D:\EstudoCSharp\Heranca\Banco\Banco\bin\Debug\net8.0\Banco.dll
+D:\EstudoCSharp\Heranca\Banco\Banco\bin\Debug\net8.0\Banco.pdb
+D:\EstudoCSharp\Heranca\Banco\Banco\obj\Debug\net8.0\Banco.GeneratedMSBuildEditorConfig.editorconfig
+D:\EstudoCSharp\Heranca\Banco\Banco\obj\Debug\net8.0\Banco.AssemblyInfoInputs.cache
+D:\EstudoCSharp\Heranca\Banco\Banco\obj\Debug\net8.0\Banco.AssemblyInfo.cs
+D:\EstudoCSharp\Heranca\Banco\Banco\obj\Debug\net8.0\Banco.csproj.CoreCompileInputs.cache
+D:\EstudoCSharp\Heranca\Banco\Banco\obj\Debug\net8.0\Banco.sourcelink.json
+D:\EstudoCSharp\Heranca\Banco\Banco\obj\Debug\net8.0\Banco.dll
+D:\EstudoCSharp\Heranca\Banco\Banco\obj\Debug\net8.0\refint\Banco.dll
+D:\EstudoCSharp\Heranca\Banco\Banco\obj\Debug\net8.0\Banco.pdb
+D:\EstudoCSharp\Heranca\Banco\Banco\obj\Debug\net8.0\Banco.genruntimeconfig.cache
+D:\EstudoCSharp\Heranca\Banco\Banco\obj\Debug\net8.0\ref\Banco.dll
