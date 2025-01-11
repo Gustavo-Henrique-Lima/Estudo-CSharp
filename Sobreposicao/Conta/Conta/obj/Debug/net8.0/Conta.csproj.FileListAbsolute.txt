@@ -1,0 +1,15 @@
+D:\EstudoCSharp\Sobreposicao\Conta\Conta\bin\Debug\net8.0\Conta.exe
+D:\EstudoCSharp\Sobreposicao\Conta\Conta\bin\Debug\net8.0\Conta.deps.json
+D:\EstudoCSharp\Sobreposicao\Conta\Conta\bin\Debug\net8.0\Conta.runtimeconfig.json
+D:\EstudoCSharp\Sobreposicao\Conta\Conta\bin\Debug\net8.0\Conta.dll
+D:\EstudoCSharp\Sobreposicao\Conta\Conta\bin\Debug\net8.0\Conta.pdb
+D:\EstudoCSharp\Sobreposicao\Conta\Conta\obj\Debug\net8.0\Conta.GeneratedMSBuildEditorConfig.editorconfig
+D:\EstudoCSharp\Sobreposicao\Conta\Conta\obj\Debug\net8.0\Conta.AssemblyInfoInputs.cache
+D:\EstudoCSharp\Sobreposicao\Conta\Conta\obj\Debug\net8.0\Conta.AssemblyInfo.cs
+D:\EstudoCSharp\Sobreposicao\Conta\Conta\obj\Debug\net8.0\Conta.csproj.CoreCompileInputs.cache
+D:\EstudoCSharp\Sobreposicao\Conta\Conta\obj\Debug\net8.0\Conta.sourcelink.json
+D:\EstudoCSharp\Sobreposicao\Conta\Conta\obj\Debug\net8.0\Conta.dll
+D:\EstudoCSharp\Sobreposicao\Conta\Conta\obj\Debug\net8.0\refint\Conta.dll
+D:\EstudoCSharp\Sobreposicao\Conta\Conta\obj\Debug\net8.0\Conta.pdb
+D:\EstudoCSharp\Sobreposicao\Conta\Conta\obj\Debug\net8.0\Conta.genruntimeconfig.cache
+D:\EstudoCSharp\Sobreposicao\Conta\Conta\obj\Debug\net8.0\ref\Conta.dll
