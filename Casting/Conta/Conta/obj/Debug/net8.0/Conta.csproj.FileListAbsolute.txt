@@ -1,0 +1,15 @@
+D:\EstudoCSharp\Casting\Conta\Conta\bin\Debug\net8.0\Conta.exe
+D:\EstudoCSharp\Casting\Conta\Conta\bin\Debug\net8.0\Conta.deps.json
+D:\EstudoCSharp\Casting\Conta\Conta\bin\Debug\net8.0\Conta.runtimeconfig.json
+D:\EstudoCSharp\Casting\Conta\Conta\bin\Debug\net8.0\Conta.dll
+D:\EstudoCSharp\Casting\Conta\Conta\bin\Debug\net8.0\Conta.pdb
+D:\EstudoCSharp\Casting\Conta\Conta\obj\Debug\net8.0\Conta.GeneratedMSBuildEditorConfig.editorconfig
+D:\EstudoCSharp\Casting\Conta\Conta\obj\Debug\net8.0\Conta.AssemblyInfoInputs.cache
+D:\EstudoCSharp\Casting\Conta\Conta\obj\Debug\net8.0\Conta.AssemblyInfo.cs
+D:\EstudoCSharp\Casting\Conta\Conta\obj\Debug\net8.0\Conta.csproj.CoreCompileInputs.cache
+D:\EstudoCSharp\Casting\Conta\Conta\obj\Debug\net8.0\Conta.sourcelink.json
+D:\EstudoCSharp\Casting\Conta\Conta\obj\Debug\net8.0\Conta.dll
+D:\EstudoCSharp\Casting\Conta\Conta\obj\Debug\net8.0\refint\Conta.dll
+D:\EstudoCSharp\Casting\Conta\Conta\obj\Debug\net8.0\Conta.pdb
+D:\EstudoCSharp\Casting\Conta\Conta\obj\Debug\net8.0\Conta.genruntimeconfig.cache
+D:\EstudoCSharp\Casting\Conta\Conta\obj\Debug\net8.0\ref\Conta.dll
