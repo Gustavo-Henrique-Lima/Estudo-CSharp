@@ -1,0 +1,15 @@
+D:\EstudoCSharp\Shop\Products\Products\obj\Debug\net8.0\Products.GeneratedMSBuildEditorConfig.editorconfig
+D:\EstudoCSharp\Shop\Products\Products\obj\Debug\net8.0\Products.AssemblyInfoInputs.cache
+D:\EstudoCSharp\Shop\Products\Products\obj\Debug\net8.0\Products.AssemblyInfo.cs
+D:\EstudoCSharp\Shop\Products\Products\obj\Debug\net8.0\Products.csproj.CoreCompileInputs.cache
+D:\EstudoCSharp\Shop\Products\Products\obj\Debug\net8.0\Products.sourcelink.json
+D:\EstudoCSharp\Shop\Products\Products\bin\Debug\net8.0\Products.exe
+D:\EstudoCSharp\Shop\Products\Products\bin\Debug\net8.0\Products.deps.json
+D:\EstudoCSharp\Shop\Products\Products\bin\Debug\net8.0\Products.runtimeconfig.json
+D:\EstudoCSharp\Shop\Products\Products\bin\Debug\net8.0\Products.dll
+D:\EstudoCSharp\Shop\Products\Products\bin\Debug\net8.0\Products.pdb
+D:\EstudoCSharp\Shop\Products\Products\obj\Debug\net8.0\Products.dll
+D:\EstudoCSharp\Shop\Products\Products\obj\Debug\net8.0\refint\Products.dll
+D:\EstudoCSharp\Shop\Products\Products\obj\Debug\net8.0\Products.pdb
+D:\EstudoCSharp\Shop\Products\Products\obj\Debug\net8.0\Products.genruntimeconfig.cache
+D:\EstudoCSharp\Shop\Products\Products\obj\Debug\net8.0\ref\Products.dll
