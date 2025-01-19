@@ -1,0 +1,15 @@
+D:\EstudoCSharp\ClasseAbstrata\Banco\Banco\bin\Debug\net8.0\Banco.exe
+D:\EstudoCSharp\ClasseAbstrata\Banco\Banco\bin\Debug\net8.0\Banco.deps.json
+D:\EstudoCSharp\ClasseAbstrata\Banco\Banco\bin\Debug\net8.0\Banco.runtimeconfig.json
+D:\EstudoCSharp\ClasseAbstrata\Banco\Banco\bin\Debug\net8.0\Banco.dll
+D:\EstudoCSharp\ClasseAbstrata\Banco\Banco\bin\Debug\net8.0\Banco.pdb
+D:\EstudoCSharp\ClasseAbstrata\Banco\Banco\obj\Debug\net8.0\Banco.GeneratedMSBuildEditorConfig.editorconfig
+D:\EstudoCSharp\ClasseAbstrata\Banco\Banco\obj\Debug\net8.0\Banco.AssemblyInfoInputs.cache
+D:\EstudoCSharp\ClasseAbstrata\Banco\Banco\obj\Debug\net8.0\Banco.AssemblyInfo.cs
+D:\EstudoCSharp\ClasseAbstrata\Banco\Banco\obj\Debug\net8.0\Banco.csproj.CoreCompileInputs.cache
+D:\EstudoCSharp\ClasseAbstrata\Banco\Banco\obj\Debug\net8.0\Banco.sourcelink.json
+D:\EstudoCSharp\ClasseAbstrata\Banco\Banco\obj\Debug\net8.0\Banco.dll
+D:\EstudoCSharp\ClasseAbstrata\Banco\Banco\obj\Debug\net8.0\refint\Banco.dll
+D:\EstudoCSharp\ClasseAbstrata\Banco\Banco\obj\Debug\net8.0\Banco.pdb
+D:\EstudoCSharp\ClasseAbstrata\Banco\Banco\obj\Debug\net8.0\Banco.genruntimeconfig.cache
+D:\EstudoCSharp\ClasseAbstrata\Banco\Banco\obj\Debug\net8.0\ref\Banco.dll
