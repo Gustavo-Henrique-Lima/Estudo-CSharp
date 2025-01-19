@@ -1,0 +1,15 @@
+D:\EstudoCSharp\IR\Imposto\Imposto\bin\Debug\net8.0\Imposto.exe
+D:\EstudoCSharp\IR\Imposto\Imposto\bin\Debug\net8.0\Imposto.deps.json
+D:\EstudoCSharp\IR\Imposto\Imposto\bin\Debug\net8.0\Imposto.runtimeconfig.json
+D:\EstudoCSharp\IR\Imposto\Imposto\bin\Debug\net8.0\Imposto.dll
+D:\EstudoCSharp\IR\Imposto\Imposto\bin\Debug\net8.0\Imposto.pdb
+D:\EstudoCSharp\IR\Imposto\Imposto\obj\Debug\net8.0\Imposto.GeneratedMSBuildEditorConfig.editorconfig
+D:\EstudoCSharp\IR\Imposto\Imposto\obj\Debug\net8.0\Imposto.AssemblyInfoInputs.cache
+D:\EstudoCSharp\IR\Imposto\Imposto\obj\Debug\net8.0\Imposto.AssemblyInfo.cs
+D:\EstudoCSharp\IR\Imposto\Imposto\obj\Debug\net8.0\Imposto.csproj.CoreCompileInputs.cache
+D:\EstudoCSharp\IR\Imposto\Imposto\obj\Debug\net8.0\Imposto.sourcelink.json
+D:\EstudoCSharp\IR\Imposto\Imposto\obj\Debug\net8.0\Imposto.dll
+D:\EstudoCSharp\IR\Imposto\Imposto\obj\Debug\net8.0\refint\Imposto.dll
+D:\EstudoCSharp\IR\Imposto\Imposto\obj\Debug\net8.0\Imposto.pdb
+D:\EstudoCSharp\IR\Imposto\Imposto\obj\Debug\net8.0\Imposto.genruntimeconfig.cache
+D:\EstudoCSharp\IR\Imposto\Imposto\obj\Debug\net8.0\ref\Imposto.dll
