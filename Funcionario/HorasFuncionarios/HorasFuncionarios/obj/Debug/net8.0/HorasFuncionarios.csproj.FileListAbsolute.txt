@@ -1,0 +1,15 @@
+D:\EstudoCSharp\Funcionario\HorasFuncionarios\HorasFuncionarios\bin\Debug\net8.0\HorasFuncionarios.exe
+D:\EstudoCSharp\Funcionario\HorasFuncionarios\HorasFuncionarios\bin\Debug\net8.0\HorasFuncionarios.deps.json
+D:\EstudoCSharp\Funcionario\HorasFuncionarios\HorasFuncionarios\bin\Debug\net8.0\HorasFuncionarios.runtimeconfig.json
+D:\EstudoCSharp\Funcionario\HorasFuncionarios\HorasFuncionarios\bin\Debug\net8.0\HorasFuncionarios.dll
+D:\EstudoCSharp\Funcionario\HorasFuncionarios\HorasFuncionarios\bin\Debug\net8.0\HorasFuncionarios.pdb
+D:\EstudoCSharp\Funcionario\HorasFuncionarios\HorasFuncionarios\obj\Debug\net8.0\HorasFuncionarios.GeneratedMSBuildEditorConfig.editorconfig
+D:\EstudoCSharp\Funcionario\HorasFuncionarios\HorasFuncionarios\obj\Debug\net8.0\HorasFuncionarios.AssemblyInfoInputs.cache
+D:\EstudoCSharp\Funcionario\HorasFuncionarios\HorasFuncionarios\obj\Debug\net8.0\HorasFuncionarios.AssemblyInfo.cs
+D:\EstudoCSharp\Funcionario\HorasFuncionarios\HorasFuncionarios\obj\Debug\net8.0\HorasFuncionarios.csproj.CoreCompileInputs.cache
+D:\EstudoCSharp\Funcionario\HorasFuncionarios\HorasFuncionarios\obj\Debug\net8.0\HorasFuncionarios.sourcelink.json
+D:\EstudoCSharp\Funcionario\HorasFuncionarios\HorasFuncionarios\obj\Debug\net8.0\HorasFuncionarios.dll
+D:\EstudoCSharp\Funcionario\HorasFuncionarios\HorasFuncionarios\obj\Debug\net8.0\refint\HorasFuncionarios.dll
+D:\EstudoCSharp\Funcionario\HorasFuncionarios\HorasFuncionarios\obj\Debug\net8.0\HorasFuncionarios.pdb
+D:\EstudoCSharp\Funcionario\HorasFuncionarios\HorasFuncionarios\obj\Debug\net8.0\HorasFuncionarios.genruntimeconfig.cache
+D:\EstudoCSharp\Funcionario\HorasFuncionarios\HorasFuncionarios\obj\Debug\net8.0\ref\HorasFuncionarios.dll
