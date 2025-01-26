@@ -1,0 +1,15 @@
+D:\EstudoCSharp\Arquivos\DirectoryExample\DirectoryExample\bin\Debug\net8.0\DirectoryExample.exe
+D:\EstudoCSharp\Arquivos\DirectoryExample\DirectoryExample\bin\Debug\net8.0\DirectoryExample.deps.json
+D:\EstudoCSharp\Arquivos\DirectoryExample\DirectoryExample\bin\Debug\net8.0\DirectoryExample.runtimeconfig.json
+D:\EstudoCSharp\Arquivos\DirectoryExample\DirectoryExample\bin\Debug\net8.0\DirectoryExample.dll
+D:\EstudoCSharp\Arquivos\DirectoryExample\DirectoryExample\bin\Debug\net8.0\DirectoryExample.pdb
+D:\EstudoCSharp\Arquivos\DirectoryExample\DirectoryExample\obj\Debug\net8.0\DirectoryExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\EstudoCSharp\Arquivos\DirectoryExample\DirectoryExample\obj\Debug\net8.0\DirectoryExample.AssemblyInfoInputs.cache
+D:\EstudoCSharp\Arquivos\DirectoryExample\DirectoryExample\obj\Debug\net8.0\DirectoryExample.AssemblyInfo.cs
+D:\EstudoCSharp\Arquivos\DirectoryExample\DirectoryExample\obj\Debug\net8.0\DirectoryExample.csproj.CoreCompileInputs.cache
+D:\EstudoCSharp\Arquivos\DirectoryExample\DirectoryExample\obj\Debug\net8.0\DirectoryExample.sourcelink.json
+D:\EstudoCSharp\Arquivos\DirectoryExample\DirectoryExample\obj\Debug\net8.0\DirectoryExample.dll
+D:\EstudoCSharp\Arquivos\DirectoryExample\DirectoryExample\obj\Debug\net8.0\refint\DirectoryExample.dll
+D:\EstudoCSharp\Arquivos\DirectoryExample\DirectoryExample\obj\Debug\net8.0\DirectoryExample.pdb
+D:\EstudoCSharp\Arquivos\DirectoryExample\DirectoryExample\obj\Debug\net8.0\DirectoryExample.genruntimeconfig.cache
+D:\EstudoCSharp\Arquivos\DirectoryExample\DirectoryExample\obj\Debug\net8.0\ref\DirectoryExample.dll

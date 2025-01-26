@@ -1,0 +1,15 @@
+D:\EstudoCSharp\Arquivos\PathSimpleExample\PathSimpleExample\bin\Debug\net8.0\PathSimpleExample.exe
+D:\EstudoCSharp\Arquivos\PathSimpleExample\PathSimpleExample\bin\Debug\net8.0\PathSimpleExample.deps.json
+D:\EstudoCSharp\Arquivos\PathSimpleExample\PathSimpleExample\bin\Debug\net8.0\PathSimpleExample.runtimeconfig.json
+D:\EstudoCSharp\Arquivos\PathSimpleExample\PathSimpleExample\bin\Debug\net8.0\PathSimpleExample.dll
+D:\EstudoCSharp\Arquivos\PathSimpleExample\PathSimpleExample\bin\Debug\net8.0\PathSimpleExample.pdb
+D:\EstudoCSharp\Arquivos\PathSimpleExample\PathSimpleExample\obj\Debug\net8.0\PathSimpleExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\EstudoCSharp\Arquivos\PathSimpleExample\PathSimpleExample\obj\Debug\net8.0\PathSimpleExample.AssemblyInfoInputs.cache
+D:\EstudoCSharp\Arquivos\PathSimpleExample\PathSimpleExample\obj\Debug\net8.0\PathSimpleExample.AssemblyInfo.cs
+D:\EstudoCSharp\Arquivos\PathSimpleExample\PathSimpleExample\obj\Debug\net8.0\PathSimpleExample.csproj.CoreCompileInputs.cache
+D:\EstudoCSharp\Arquivos\PathSimpleExample\PathSimpleExample\obj\Debug\net8.0\PathSimpleExample.sourcelink.json
+D:\EstudoCSharp\Arquivos\PathSimpleExample\PathSimpleExample\obj\Debug\net8.0\PathSimpleExample.dll
+D:\EstudoCSharp\Arquivos\PathSimpleExample\PathSimpleExample\obj\Debug\net8.0\refint\PathSimpleExample.dll
+D:\EstudoCSharp\Arquivos\PathSimpleExample\PathSimpleExample\obj\Debug\net8.0\PathSimpleExample.pdb
+D:\EstudoCSharp\Arquivos\PathSimpleExample\PathSimpleExample\obj\Debug\net8.0\PathSimpleExample.genruntimeconfig.cache
+D:\EstudoCSharp\Arquivos\PathSimpleExample\PathSimpleExample\obj\Debug\net8.0\ref\PathSimpleExample.dll

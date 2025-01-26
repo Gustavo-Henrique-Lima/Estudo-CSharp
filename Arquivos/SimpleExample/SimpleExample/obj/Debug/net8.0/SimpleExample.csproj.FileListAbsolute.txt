@@ -1,0 +1,15 @@
+D:\EstudoCSharp\Arquivos\SimpleExample\SimpleExample\bin\Debug\net8.0\SimpleExample.exe
+D:\EstudoCSharp\Arquivos\SimpleExample\SimpleExample\bin\Debug\net8.0\SimpleExample.deps.json
+D:\EstudoCSharp\Arquivos\SimpleExample\SimpleExample\bin\Debug\net8.0\SimpleExample.runtimeconfig.json
+D:\EstudoCSharp\Arquivos\SimpleExample\SimpleExample\bin\Debug\net8.0\SimpleExample.dll
+D:\EstudoCSharp\Arquivos\SimpleExample\SimpleExample\bin\Debug\net8.0\SimpleExample.pdb
+D:\EstudoCSharp\Arquivos\SimpleExample\SimpleExample\obj\Debug\net8.0\SimpleExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\EstudoCSharp\Arquivos\SimpleExample\SimpleExample\obj\Debug\net8.0\SimpleExample.AssemblyInfoInputs.cache
+D:\EstudoCSharp\Arquivos\SimpleExample\SimpleExample\obj\Debug\net8.0\SimpleExample.AssemblyInfo.cs
+D:\EstudoCSharp\Arquivos\SimpleExample\SimpleExample\obj\Debug\net8.0\SimpleExample.csproj.CoreCompileInputs.cache
+D:\EstudoCSharp\Arquivos\SimpleExample\SimpleExample\obj\Debug\net8.0\SimpleExample.sourcelink.json
+D:\EstudoCSharp\Arquivos\SimpleExample\SimpleExample\obj\Debug\net8.0\SimpleExample.dll
+D:\EstudoCSharp\Arquivos\SimpleExample\SimpleExample\obj\Debug\net8.0\refint\SimpleExample.dll
+D:\EstudoCSharp\Arquivos\SimpleExample\SimpleExample\obj\Debug\net8.0\SimpleExample.pdb
+D:\EstudoCSharp\Arquivos\SimpleExample\SimpleExample\obj\Debug\net8.0\SimpleExample.genruntimeconfig.cache
+D:\EstudoCSharp\Arquivos\SimpleExample\SimpleExample\obj\Debug\net8.0\ref\SimpleExample.dll
