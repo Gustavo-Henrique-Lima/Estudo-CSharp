@@ -1,0 +1,15 @@
+D:\EstudoCSharp\Excecoes\Hotel\Hotel\bin\Debug\net8.0\Hotel.exe
+D:\EstudoCSharp\Excecoes\Hotel\Hotel\bin\Debug\net8.0\Hotel.deps.json
+D:\EstudoCSharp\Excecoes\Hotel\Hotel\bin\Debug\net8.0\Hotel.runtimeconfig.json
+D:\EstudoCSharp\Excecoes\Hotel\Hotel\bin\Debug\net8.0\Hotel.dll
+D:\EstudoCSharp\Excecoes\Hotel\Hotel\bin\Debug\net8.0\Hotel.pdb
+D:\EstudoCSharp\Excecoes\Hotel\Hotel\obj\Debug\net8.0\Hotel.GeneratedMSBuildEditorConfig.editorconfig
+D:\EstudoCSharp\Excecoes\Hotel\Hotel\obj\Debug\net8.0\Hotel.AssemblyInfoInputs.cache
+D:\EstudoCSharp\Excecoes\Hotel\Hotel\obj\Debug\net8.0\Hotel.AssemblyInfo.cs
+D:\EstudoCSharp\Excecoes\Hotel\Hotel\obj\Debug\net8.0\Hotel.csproj.CoreCompileInputs.cache
+D:\EstudoCSharp\Excecoes\Hotel\Hotel\obj\Debug\net8.0\Hotel.sourcelink.json
+D:\EstudoCSharp\Excecoes\Hotel\Hotel\obj\Debug\net8.0\Hotel.dll
+D:\EstudoCSharp\Excecoes\Hotel\Hotel\obj\Debug\net8.0\refint\Hotel.dll
+D:\EstudoCSharp\Excecoes\Hotel\Hotel\obj\Debug\net8.0\Hotel.pdb
+D:\EstudoCSharp\Excecoes\Hotel\Hotel\obj\Debug\net8.0\Hotel.genruntimeconfig.cache
+D:\EstudoCSharp\Excecoes\Hotel\Hotel\obj\Debug\net8.0\ref\Hotel.dll
